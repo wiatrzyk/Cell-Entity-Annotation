@@ -1,0 +1,5 @@
+.venv
+.vscode
+data/
+test/
+*_results.csv
